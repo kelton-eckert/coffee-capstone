@@ -5,6 +5,6 @@ This is the repsitory for the electronics prototyping code.
 
 
 # log
-03-15-2025 12:41
+03-15-2025 12:41 \n
 Thus far the LCD, Nano, and Temp sensor are connected on breadboard. 
 The motor and power switch are connected but not yet working 
