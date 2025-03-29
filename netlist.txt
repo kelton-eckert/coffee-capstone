@@ -1,0 +1,16 @@
+* Netlist created with www.circuit-diagram.org
+* 
+R1 1 0 4700
+V2 2 0
+D3 4 3
+R4 3 2 1200
+V5 0 5
+'microcontroller #31:2 #3:0 #29:1 #9:2 #1:2 #11:5 #7:6 #5:7 #21:8 #23:9 #25:10 #27:11 header=LCD sz=32 p0= p1=VSS p2= p3=VDD p4= p5=V0 p6= p7=RS p8= p9=R/W p10= p11=E p12= p13=DB0 p14= p15=DB1 p16= p17=DB2 p18= p19=DB3 p20= p21=DB4 p22= p23=DB5 p24= p25=DB6 p26= p27=DB7 p28= p29=LED+ p30= p31=LED- p32= p33= p34= p35= p36= p37= p38= p39=
+'microcontroller #26:5 #28:6 #17:12 #15:13 #9:4 #7:0 #3:2 #12:8 #14:9 #16:10 #18:11 header=Arduino Nano v2 sz=30 p0=D1 TX p1=Vin p2=D0 RX p3=GND p4=RST p5=RST p6=GND p7=5V p8=D2 p9=A0 p10=D3 p11=A1 p12=D4 p13=A2 p14=D5 p15=A3 p16=D6 p17=A4 p18=D7 p19=A5 p20=D8 p21=A6 p22=D9 p23=A7 p24=D10 p25=AREF p26=D11 p27=3V3 p28=D12 p29=D13 p30= p31= p32= p33= p34= p35= p36= p37= p38= p39=
+'microcontroller #5:14 #7:15 #3:16 #1:17 #4:2 #0:0 #2:18 header=L298N Driver sz=8 p0=5V p1=A+ p2=12V p3=A - p4=GND p5=B+ p6= p7=B - p8= p9= p10= p11= p12= p13= p14= p15= p16= p17= p18= p19= p20= p21= p22= p23= p24= p25= p26= p27= p28= p29= p30= p31= p32= p33= p34= p35= p36= p37= p38= p39=
+'pump a:15 b:14 text=Pump
+'Hall Effect Sensor y:12 x:13 b:17 a:16
+R6 0 4 10000
+'acdcconverter primary:19 secondary:18 primary=AC secondary=DC
+R7 4 2 10000
+'potentiometer b:2 a:0 c:7 style=US text= resistance=10000 showResistance=True t=Potentiometer
