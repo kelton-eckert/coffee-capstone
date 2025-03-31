@@ -34,3 +34,6 @@ Started print of one of the parts for the model. Got motors (motor + pump) worki
 Code updated to test motor and pump.
 If print goes well, tmrw I will solder most of the circuit onto protoboard. 
 Updated [schematic](https://github.com/kelton-eckert/coffee-capstone/edit/main/Schematic-03-29-25.png) that I made earlier today to match the working test circuit.
+
+### 03-30-2025 23:59
+Finished [slides](https://github.com/kelton-eckert/coffee-capstone/blob/main/Critical%20Design%20Review%2003_31_25.pdf) for critical design review tomorrow. 
